@@ -15,9 +15,9 @@ This project includes a frontend for users to browse products, add to cart, and 
 - **About Page (`about.php`)** – About the company  
 - **Contact Page (`contact.php`)** – Contact form to send messages  
 
-[Homepage](screenshots/2025-09-30 18_30_34-My Shop.png)  
-[Shop Page](screenshots/2025-09-30 18_30_50-My Shop.png)  
-[Cart Page](screenshots/2025-09-30 18_31_09-My Shop.png)
+![Homepage](screenshots/2025-09-30%2018_30_34-My%20Shop.png)  
+![Shop Page](screenshots/2025-09-30%2018_30_50-My%20Shop.png)  
+![Cart Page](screenshots/2025-09-30%2018_31_09-My%20Shop.png)
 
 ---
 
@@ -29,9 +29,9 @@ This project includes a frontend for users to browse products, add to cart, and 
 - **Manage Orders (`admin/orders.php`)** – View and process orders  
 - **Manage Users (`admin/users.php`)** – View and manage registered users  
 
-![Admin Login](screenshots/admin panel/2025-09-30 19_11_28-Admin Login.png)  
-![Admin Dashboard](screenshots/admin panel/2025-09-30 19_11_41-Admin Panel.png)  
-![Manage Products](screenshots/admin panel/2025-09-30 19_11_55-Admin Panel.png)
+![Admin Login](screenshots/admin%20panel/2025-09-30%2019_11_28-Admin%20Login.png)  
+![Admin Dashboard](screenshots/admin%20panel/2025-09-30%2019_11_41-Admin%20Panel.png)  
+![Manage Products](screenshots/admin%20panel/2025-09-30%2019_11_55-Admin%20Panel.png)
 
 ---
 
