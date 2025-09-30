@@ -15,9 +15,9 @@ This project includes a frontend for users to browse products, add to cart, and 
 - **About Page (`about.php`)** – About the company  
 - **Contact Page (`contact.php`)** – Contact form to send messages  
 
-![Homepage](screenshots/2025-09-30 18_30_34-My Shop.png)  
-![Shop Page](screenshots/2025-09-30 18_30_50-My Shop.png)  
-![Cart Page](screenshots/2025-09-30 18_31_09-My Shop.png)
+[Homepage](screenshots/2025-09-30 18_30_34-My Shop.png)  
+[Shop Page](screenshots/2025-09-30 18_30_50-My Shop.png)  
+[Cart Page](screenshots/2025-09-30 18_31_09-My Shop.png)
 
 ---
 
